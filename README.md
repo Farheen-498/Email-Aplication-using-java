@@ -1,4 +1,4 @@
-# Email-Aplication-using-java
+# Email-Application-using-java
 
 
 Scenario: You are an IT Support Administartor Scpecialist and are charged with the task of creating email accounts for new hires.
